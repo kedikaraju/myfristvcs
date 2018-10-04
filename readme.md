@@ -1,3 +1,3 @@
-hello git abilities
+hello git abilities and capabilities
 hello raju
 mater is came
