@@ -1,4 +1,3 @@
-hello git
+hello git capabilities
 hello raju
-ma
-ter is came
+mater is came
