@@ -1,1 +1,1 @@
-git is very mind and yours
+git is very mind and yoursand ours
